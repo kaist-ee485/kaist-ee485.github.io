@@ -150,10 +150,10 @@ any memory and check/handle every return value of function calls.
 <hr>
 
 <p>
-Your submission will be graded on one of the Lab machines (eelabg12) for the
+Your submission will be graded on one of the Lab machines (eelabg1, 2) for the
 course. You are free to use other machines for coding and debugging,
 but please make sure to compile and test your final version on the Lab
-machines (eelabg12). In a rare case, library mismatch or O/S stack difference
+machines (eelabg1, 22). In a rare case, library mismatch or O/S stack difference
 (Solaris vs. Linux) can bypass some of your bugs, but they can
 actually show up on the Lab machines while grading. In order to avoid
 this last-minute surprise, please test on Lab machines before
@@ -170,7 +170,7 @@ diff errors1 errors2
 rm output1 errors1 output2 errors2</pre>
 </div>
 
-<h2> Fix a small mistake </h2>
+<!-- <h2> Fix a small mistake </h2>
 <hr>
 
 <p>
@@ -187,7 +187,7 @@ deduction</font> from your total score. Note that once submitted no alogirhtm ch
 Some programming assignments provide extra points. These extra points cannot exceed
 the total score (50% of final score) that you can obtain from assignments. But, within the total score,
 the extra points will affect your final score.
-</p>
+</p> -->
 
 <h2> gcc209 </h2>
 <hr>
