@@ -23,7 +23,7 @@ Students are expected to regularly check the course webpage, class schedule upda
 
 <tr>
 <td> 60% </td>
-<td> Programming assignments</td>
+<td> Hands-on practice </td>
 </tr>
 
 <tr>
