@@ -43,7 +43,7 @@ Introduction to UNIX and C (due: 9/8 10:30am) </li>
 <a href="assignment5/index.html"> Unix Shell Assignment</a> (due: 06/11 11:55pm) </li>
 </ul> -->
 
-<h2> Assignment Submission (Important) </h2>
+<!-- <h2> Assignment Submission (Important) </h2>
 <hr>
 
 <p>
@@ -85,7 +85,7 @@ Then, you'll see  20231234_assign1.tar.gz. If you want to decompress and release
 </p>
 <pre class="ui message">
 tar zxf 20231234_assign1.tar.gz
-</pre>
+</pre> -->
 
 <h2> Ethics Document (Important) </h2>
 <hr>
