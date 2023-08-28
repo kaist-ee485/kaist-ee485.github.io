@@ -28,7 +28,7 @@ Introduction to UNIX and C (due: 9/8 10:30am) </li>
 <li> Assignment 8: TBD
 <li> Assignment 9: TBD
 <li> Assignment 10: TBD
-</ul>
+<!-- </ul> -->
 
 <!-- 2023 ### SPRING Schedule ###
 <ul>
@@ -104,7 +104,7 @@ Please sign on the document and submit it along with your other
 assignment files, or we won't grade your assignment.
 
 
-</p><h2> Late Submission </h2>
+<!-- </p><h2> Late Submission </h2>
 <hr>
 <p>
 Students can use two late submission tokens which can be late up
@@ -126,7 +126,7 @@ With your tokens, you can submit your assignment with the following penalty.
 </li><li> Note that we do not accept late submission for the <b>last
 assignment (assignment 5)</b>.
 </li></ul>
-</p>
+</p> -->
 
 <h2> Collaboration Policy </h2>
 <hr>
