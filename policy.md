@@ -7,7 +7,7 @@ permalink: /policy/
 <h1> Lectures and Precepts </h1>
 
 <p>
-Lecture attendance is mandatory. You are responsible for
+You are responsible for
 the materials presented in the lecture and precepts. Some of the
 content is not in the textbook.
 
@@ -22,23 +22,13 @@ Students are expected to regularly check the course webpage, class schedule upda
 <tbody>
 
 <tr>
-<td> 20% </td>
-<td> Mid-term exam  </td>
-</tr>
-
-<tr>
-<td> 20% </td>
-<td> Final exam  </td>
-</tr>
-
-<tr>
-<td> 55% </td>
+<td> 60% </td>
 <td> Programming assignments</td>
 </tr>
 
 <tr>
-<td> 5% </td>
-<td> Contribution  </td>
+<td> 40% </td>
+<td> Final exam  </td>
 </tr>
 
 </tbody>
