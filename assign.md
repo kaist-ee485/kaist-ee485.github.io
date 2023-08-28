@@ -15,20 +15,19 @@ assignments. Each programming assignment takes up 10% of your total grade.
 <li> Assignment 1:
 <!-- <a href="assignment1/index.html"> A Word Counting Program</a> (due: 9/15 11:55pm) </li> -->
 Introduction to UNIX and C (due: 9/8 10:30am) </li>
-<li>Assignment 2: TBD
+<li>Assignment 2: TBD </li>
 <!-- <a href="assignment2/index.html"> String Manipulation</a> (due: 10/6 11:55pm) </li> -->
-<li> Assignment 3: TBD
+<li> Assignment 3: TBD </li>
 <!-- <a href="assignment3/index.html"> Customer Management Table</a> (due: 10/27 11:55pm) </li> -->
-<li> Assignment 4: TBD
+<li> Assignment 4: TBD </li>
 <!-- <a href="assignment4/index.html"> Assembly Language Programming</a> (due: 11/17 11:55pm) </li> -->
-<li> Assignment 5: TBD
+<li> Assignment 5: TBD  </li>
 <!-- <a href="assignment5/index.html"> Unix Shell Assignment</a> (due: 12/18 11:55pm) </li> -->
-<li> Assignment 6: TBD
-<li> Assignment 7: TBD
-<li> Assignment 8: TBD
-<li> Assignment 9: TBD
-<li> Assignment 10: TBD
-<!-- </ul> -->
+<li> Assignment 6: TBD </li>
+<li> Assignment 7: TBD </li>
+<li> Assignment 8: TBD </li>
+<li> Assignment 9: TBD </li>
+<li> Assignment 10: TBD </li> </ul>
 
 <!-- 2023 ### SPRING Schedule ###
 <ul>
