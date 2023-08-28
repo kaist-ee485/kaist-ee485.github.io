@@ -12,7 +12,7 @@ assignments. Each programming assignment takes up 10% of your total grade.
 </p>
 
 <ul>
-<li> Assignment 1:
+<li> Assignment 1ddd:
 <a href="assignment1/index.html"> A Word Counting Program</a> (due: 9/15 11:55pm) </li>
 <li> Assignment 2:
 <a href="assignment2/index.html"> String Manipulation</a> (due: 10/6 11:55pm) </li>
