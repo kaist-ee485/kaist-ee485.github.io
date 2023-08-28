@@ -68,7 +68,7 @@ code. Incorporating someone else's code into your code in any form is
 a violation of academic regulations. This includes adapting solutions
 or partial solutions to assignments from any offering of this course
 or any other course. There is one exception to the code-sharing rule:
-You may adapt code from the EE 209 course materials provided that you
+You may adapt code from the EE 485 course materials provided that you
 explain what code you use, and cite its source in your readme file.
 
 </p><p>
@@ -83,8 +83,7 @@ software, for automated help.
 
 </p><p>
 If a student is confirmed to commit plagiarism on an assignment, then
-the standard penalty is <span style=" font: bold; color:red;">automatic failure (F)</span> of the EE 209
-course.
+the standard penalty is <span style=" font: bold; color:red;">automatic failure (F)</span> of the EE 485 course.
 
 </p><h3> Providing help to others </h3>
 <p>
@@ -118,7 +117,7 @@ Once submitted no algorithmic change to the code is allowed and you cannot propo
 <h3> Exam Conduct</h3>
 
 If we find a student commits inappropriate conduct during an in-class exam, the standard penalty is
-<span style=" font: bold; color:red;">automatic failure (F)</span> of the EE 209 course.
+<span style=" font: bold; color:red;">automatic failure (F)</span> of the EE 485 course.
 
 <br>
 <br>
