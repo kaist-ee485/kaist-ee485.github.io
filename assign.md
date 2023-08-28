@@ -159,16 +159,6 @@ actually show up on the Lab machines while grading. In order to avoid
 this last-minute surprise, please test on Lab machines before
 submitting your work.
 </p>
-<p>We will use an automated program for scoring.
-And it works similar below practice in assignments.
-So you can check your functionality using diff command.</p>
-
-<div class="ui message" style="margin-left:1em;"><pre>./samplewc209 &lt; <em>somefile</em> &gt; output1 2&gt; errors1
-./wc209 &lt; <em>somefile</em> &gt; output2 2&gt; errors2
-diff output1 output2
-diff errors1 errors2
-rm output1 errors1 output2 errors2</pre>
-</div>
 
 <!-- <h2> Fix a small mistake </h2>
 <hr>
