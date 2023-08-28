@@ -13,7 +13,7 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-- precepts.md
+# - precepts.md
 - assign.md
 - policy.md
 
