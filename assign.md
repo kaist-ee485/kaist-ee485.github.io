@@ -14,7 +14,7 @@ assignments. Each programming assignment takes up 10% of your total grade.
 <ul>
 <li> Assignment 1:
 <!-- <a href="assignment1/index.html"> A Word Counting Program</a> (due: 9/15 11:55pm) </li> -->
-Introduction to UNIX and C (due: 9/8 10:30am) </li>
+Introduction to UNIX and C (due: TBD) </li>
 <li>Assignment 2: TBD </li>
 <!-- <a href="assignment2/index.html"> String Manipulation</a> (due: 10/6 11:55pm) </li> -->
 <li> Assignment 3: TBD </li>
