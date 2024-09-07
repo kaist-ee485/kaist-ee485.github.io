@@ -7,8 +7,8 @@ permalink: /assignments/
 <h1> Programming Assignments </h1>
 
 <p>
-We will do <font color="#FF0000">ten</font> programming
-assignments. 
+We will do <font color="#FF0000">eleven</font> programming
+assignments. Each programming assignment takes up 7% of your total grade.
 </p>
 
 <ul>
@@ -27,7 +27,8 @@ Introduction to UNIX and C (due: 9/13 10:25am) </li>
 <li> Assignment 7: TBD </li>
 <li> Assignment 8: TBD </li>
 <li> Assignment 9: TBD </li>
-<li> Assignment 10: TBD </li> </ul>
+<li> Assignment 10: TBD </li>
+<li> Assignment 11: TBD </li> </ul>
 
 <!-- 2023 ### SPRING Schedule ###
 <ul>
