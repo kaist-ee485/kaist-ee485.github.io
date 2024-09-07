@@ -22,12 +22,12 @@ Students are expected to regularly check the course webpage, class schedule upda
 <tbody>
 
 <tr>
-<td> 60% </td>
+<td> 77% </td>
 <td> Hands-on practice </td>
 </tr>
 
 <tr>
-<td> 40% </td>
+<td> 23% </td>
 <td> Final exam  </td>
 </tr>
 
