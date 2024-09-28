@@ -8,18 +8,18 @@ permalink: /assignments/
 
 <p>
 We will do <font color="#FF0000">eleven</font> programming
-assignments. Each programming assignment takes up 7% of your total grade.
+assignments. Each programming assignment takes up 11.11% of your total grade.
 </p>
 
 <ul>
 <li> Assignment 1:
 <!-- <a href="assignment1/index.html"> A Word Counting Program</a> (due: 9/15 11:55pm) </li> -->
 Introduction to UNIX and C (due: 9/20 10:25am) </li>
-<li>Assignment 2: TBD </li>
+<li>Assignment 2: Shells and Commands (due: 9/20 10:25am) </li>
 <!-- <a href="assignment2/index.html"> String Manipulation</a> (due: 10/6 11:55pm) </li> -->
-<li> Assignment 3: TBD </li>
+<li> Assignment 3: Vscode (due: 9/27 10:25am) </li>
 <!-- <a href="assignment3/index.html"> Customer Management Table</a> (due: 10/27 11:55pm) </li> -->
-<li> Assignment 4: TBD </li>
+<li> Assignment 4: Compiler (due: 10/4 10:25am) </li>
 <!-- <a href="assignment4/index.html"> Assembly Language Programming</a> (due: 11/17 11:55pm) </li> -->
 <li> Assignment 5: TBD  </li>
 <!-- <a href="assignment5/index.html"> Unix Shell Assignment</a> (due: 12/18 11:55pm) </li> -->
